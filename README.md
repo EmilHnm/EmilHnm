@@ -30,7 +30,7 @@ in Hanoi Open University and will graduate in mid-2024.
 
 <h3>🖥️ Workspace Setup</h3>
 
-![Intel](https://img.shields.io/badge/Intel_CORE_I5_8TH-06B6D4?style=for-the-badge&logo=Intel&logoColor=white)
+![Intel](https://img.shields.io/badge/Intel_CORE_I5_4TH-06B6D4?style=for-the-badge&logo=Intel&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA_GTX_1070-76B900?style=for-the-badge&logo=NVIDIA&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=Visual&logoColor=white)
 ![VS_Code](https://camo.githubusercontent.com/3ade724cce65a6532e221df4176dbfc4c129597e84cb0bd98766e2860722ea28/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56535f436f64652d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d56697375616c2d53747564696f2d436f6465266c6f676f436f6c6f723d7768697465)
