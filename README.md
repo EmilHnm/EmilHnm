@@ -34,6 +34,11 @@ in Hanoi Open University and will graduate in mid-2024.
 ![NVIDIA](https://img.shields.io/badge/NVIDIA_GTX_1070-76B900?style=for-the-badge&logo=NVIDIA&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=Windows&logoColor=white)
 ![VS_Code](https://camo.githubusercontent.com/3ade724cce65a6532e221df4176dbfc4c129597e84cb0bd98766e2860722ea28/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56535f436f64652d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d56697375616c2d53747564696f2d436f6465266c6f676f436f6c6f723d7768697465)
+
+<h3>⭐ Github Statistic</h3>
+<img src="https://github-readme-stats.vercel.app/api?username=EmilRailgun&theme=midnight-purple&show_icons=true&count_private=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilRailgun&theme=midnight-purple&layout=compact&langs_count=10">
+
+
 <!---
 EmilRailgun/EmilRailgun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
