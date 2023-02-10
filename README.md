@@ -1,7 +1,7 @@
 <h2>👋 Hi, I’m @EmilRailgun</h2>
 <h3>About me</h3>
 🎓My name is Hoa NgoMinh, an <strong>Intern Front End Web Developer</strong> (specializing in 
-<strong>Angular Applications)</strong>. I am also learning <i>Information Technology</i> 
+<strong>Vue Applications)</strong>. I am also learning <i>Information Technology</i> 
 in Hanoi Open University and will graduate in mid-2024.
 
 <h3>🛠️ My skills</h3>
