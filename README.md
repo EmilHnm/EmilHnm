@@ -1,3 +1,5 @@
+
+<!-- ![](https://komarev.com/ghpvc/?username=EmilRailgun&style=for-the-badge) -->
 <h2>👋 Hi, I’m @EmilRailgun</h2>
 <h3>About me</h3>
 🎓My name is Hoa NgoMinh, an <strong>Intern Web Developer</strong>. I am also learning <i>Information Technology</i> 
