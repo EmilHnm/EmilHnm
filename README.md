@@ -41,7 +41,11 @@ in Hanoi Open University and will graduate in mid-2024.
 <img src="https://github-readme-stats.vercel.app/api?username=EmilRailgun&theme=jolly&show_icons=true&count_private=true&bg_color=100,565EA9,925DA3">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilRailgun&theme=midnight-purple&layout=compact&langs_count=10">
 
-
+<h3>📌 Pinned Repo</h3>
+  <div>
+    <a href="https://github.com/EmilRailgun/school-management-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EmilRailgun&repo=school-management-system" /></a>
+    <a href="https://github.com/EmilRailgun/swallowtail-music"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EmilRailgun&repo=swallowtail-music" /></a>
+</div>
 <!---
 EmilRailgun/EmilRailgun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
