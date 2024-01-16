@@ -15,6 +15,7 @@ in Hanoi Open University and will graduate in mid-2024.
 <h4>Front-End Development</h4>
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=Angular&logoColor=white)
+![VueJS](https://img.shields.io/badge/VueJS-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
@@ -23,6 +24,11 @@ in Hanoi Open University and will graduate in mid-2024.
 <h4>Design Tools</h4>
 
 ![XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=AdobeXD&logoColor=white)
+
+<h4>Back-End Development</h4>
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white)
+![NodeJs](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=Node.Js&logoColor=white)
 
 <h4>Backend as a Service (BaaS)</h4>
 
@@ -35,7 +41,7 @@ in Hanoi Open University and will graduate in mid-2024.
 ![NVIDIA](https://img.shields.io/badge/NVIDIA_GTX_1070-76B900?style=for-the-badge&logo=NVIDIA&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=Windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![VS_Code](https://camo.githubusercontent.com/3ade724cce65a6532e221df4176dbfc4c129597e84cb0bd98766e2860722ea28/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56535f436f64652d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d56697375616c2d53747564696f2d436f6465266c6f676f436f6c6f723d7768697465)
+![VS_Code](https://img.shields.io/badge/Visual_Code_Studio-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 <h3>⭐ Github Statistic</h3>
 <table>
