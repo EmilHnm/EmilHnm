@@ -1,6 +1,6 @@
 
-<!-- ![](https://komarev.com/ghpvc/?username=EmilRailgun&style=for-the-badge) -->
-<h2>👋 Hi, I’m @EmilRailgun</h2>
+<!-- ![](https://komarev.com/ghpvc/?username=EmilHnm&style=for-the-badge) -->
+<h2>👋 Hi, I’m @EmilHnm</h2>
 <h3>About me</h3>
 🎓My name is Hoa NgoMinh, an <strong>Intern Web Developer</strong>. I am also learning <i>Information Technology</i> 
 in Hanoi Open University and will graduate in mid-2024.
@@ -40,18 +40,18 @@ in Hanoi Open University and will graduate in mid-2024.
 <h3>⭐ Github Statistic</h3>
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=EmilRailgun&theme=jolly&show_icons=true&count_private=true&bg_color=100,565EA9,925DA3"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilRailgun&theme=midnight-purple&layout=compact&langs_count=10">
+    <td><img src="https://github-readme-stats.vercel.app/api?username=EmilHnm&theme=jolly&show_icons=true&count_private=true&bg_color=100,565EA9,925DA3"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilHnm&theme=midnight-purple&layout=compact&langs_count=10">
 </td>
   </tr>
 </table>
 
 <h3>📌 Pinned Repo</h3>
   <div>
-    <a href="https://github.com/EmilRailgun/school-management-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EmilRailgun&repo=school-management-system" /></a>
-    <a href="https://github.com/EmilRailgun/swallowtail-music"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EmilRailgun&repo=swallowtail-music" /></a>
+    <a href="https://github.com/EmilHnm/school-management-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EmilHnm&repo=school-management-system" /></a>
+    <a href="https://github.com/EmilHnm/swallowtail-music"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EmilHnm&repo=swallowtail-music" /></a>
 </div>
 <!---
-EmilRailgun/EmilRailgun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+EmilHnm/EmilHnm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
