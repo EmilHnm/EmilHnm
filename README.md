@@ -54,8 +54,8 @@ in Hanoi Open University and will graduate in mid-2024.
 
 <h3>📌 Pinned Repo</h3>
   <div>
-    <a href="https://github.com/EmilHnm/school-management-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EmilHnm&repo=school-management-system" /></a>
-    <a href="https://github.com/EmilHnm/swallowtail-music"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EmilHnm&repo=swallowtail-music" /></a>
+    <a href="https://github.com/EmilHnm/school-management-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EmilHnm&repo=school-management-system&theme=midnight-purple" /></a>
+    <a href="https://github.com/EmilHnm/swallowtail-music"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EmilHnm&repo=swallowtail-music&theme=midnight-purple" /></a>
 </div>
 <!---
 EmilHnm/EmilHnm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
