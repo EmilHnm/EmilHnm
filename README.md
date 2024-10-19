@@ -2,8 +2,7 @@
 <!-- ![](https://komarev.com/ghpvc/?username=EmilHnm&style=for-the-badge) -->
 <h2>👋 Hi, I’m @EmilHnm</h2>
 <h3>About me</h3>
-🎓My name is Hoa NgoMinh, an <strong>Intern Web Developer</strong>. I am also learning <i>Information Technology</i> 
-in Hanoi Open University and will graduate in mid-2024.
+🎓My name is Hoa NgoMinh, an <strong>Web Developer</strong>.
 
 <h3>🛠️ My skills</h3>
 <h4>Languages</h4>
