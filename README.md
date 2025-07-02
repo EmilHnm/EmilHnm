@@ -2,7 +2,7 @@
 <!-- ![](https://komarev.com/ghpvc/?username=EmilHnm&style=for-the-badge) -->
 <h2>👋 Hi, I’m @EmilHnm</h2>
 <h3>About me</h3>
-🎓My name is Hoa NgoMinh, an <strong>Web Developer</strong>.
+🎓My name is Hoa NgoMinh, a <strong>Web Developer</strong>.
 
 <h3>🛠️ My skills</h3>
 <h4>Languages</h4>
