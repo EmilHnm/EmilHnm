@@ -45,17 +45,19 @@
 <h3>⭐ Github Statistic</h3>
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=EmilHnm&theme=jolly&show_icons=true&count_private=true&bg_color=100,565EA9,925DA3"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilHnm&theme=midnight-purple&layout=compact&langs_count=10">
-</td>
+    <td>
+      <img align="" src="https://github-readme-stats-fork-alpha.vercel.app/api?username=emilhnm&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&border_radius=0&title_color=a74bd0&icon_color=a74bd0&text_color=959598&bg_color=9ca3af00" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats-fork-alpha.vercel.app/api/top-langs/?username=emilhnm&hide_title=true&hide_border=true&layout=compact&border_radius=0&title_color=a74bd0&icon_color=a74bd0&text_color=959598&bg_color=9ca3af00&langs_count=8" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img align="" width="99.9%" src="https://github-readme-activity-graph-qpqpgkqdk-edison1105.vercel.app/graph?username=EmilHnm&theme=nord&color=a74bd0&point=a74bd0&hide_border=true&line=959598&title_color=a74bd0&icon_color=a74bd0&text_color=959598&bg_color=9ca3af00" />
+    </td>
   </tr>
 </table>
-
-<h3>📌 Pinned Repo</h3>
-  <div>
-    <a href="https://github.com/EmilHnm/school-management-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EmilHnm&repo=school-management-system&theme=midnight-purple" /></a>
-    <a href="https://github.com/EmilHnm/swallowtail-music"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EmilHnm&repo=swallowtail-music&theme=midnight-purple" /></a>
-</div>
 <!---
 EmilHnm/EmilHnm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
